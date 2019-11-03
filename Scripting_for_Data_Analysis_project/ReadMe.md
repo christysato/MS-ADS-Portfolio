@@ -3,5 +3,7 @@
 
 Collection of Data from Spotify to distinguish how features of songs (danceability, energy, etc.) relate to Spotify's generated Study Playlists and comparing it to other genre playlists
 
-1. Project.ipynb                            Jupyter Notebook Script
-2. IST652:Spotify_Study_Playlist            PowerPoint Presentation  
+1. Project.ipynb
+  - Jupyter Notebook Script
+2. IST652_Spotify Study Playlist
+  - PowerPoint Presentation  
