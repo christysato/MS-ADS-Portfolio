@@ -5,5 +5,6 @@ Collection of Data from Spotify to distinguish how features of songs (danceabili
 
 1. Project.ipynb
     - Jupyter Notebook Script
-2. IST652_Spotify Study Playlist
+    
+2. IST652_Spotify Study Playlist.pptx
     - PowerPoint Presentation  
