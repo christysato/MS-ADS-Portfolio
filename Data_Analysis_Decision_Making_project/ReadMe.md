@@ -1,7 +1,7 @@
 ## MBC638: Data Analysis and Decision Making ##
 *Software Needed*: Microsoft PowerPoint
 
-Group project on statistical analysis on Life Expentancy around the world to see relationships between variables and how strong the correlations are between these variables.
+Group project on statistical analysis on Life Expectancy around the world to see relationships between variables and how strong the correlations are between these variables.
 
 1. ***Dataset used:*** Life Expectancy.xlsx
 
