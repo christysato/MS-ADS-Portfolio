@@ -10,4 +10,4 @@ Collection of Data from Spotify API to distinguish how features of songs (dancea
     - PowerPoint Presentation with project outcomes
     
 3. Final Project Report.docx
-    - Project Report with process of data receiving, cleaning, and analysis
+    - Project Report with process of data retrieval, cleaning, and analysis
