@@ -1,4 +1,4 @@
-## IST687: Introduction to Data Science ##
+## IST687: Introduction to Data Science Project ##
 *Software Needed*: R, Microsoft PowerPoint, Microsoft Word
 
 Group Project as pretend data scientists who are assigned to help airline companies improve their customer satisfaction. With complete data visualization and analysis, we must provide insightful answers to the airline's businesss problems. Flight survey dataset provided by Professor Saltz. 
