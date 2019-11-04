@@ -4,9 +4,9 @@
 Group project on statistical analysis on Life Expentancy around the world to see relationships between variables and how strong the correlations are between these variables.
 
 ***Data Sources:***  
-https://www.who.int/
-https://www.kaggle.com
-https://data.worldbank.org
+- https://www.who.int/
+- https://www.kaggle.com
+- https://data.worldbank.org
 
 
 1. MBC638 Project - Life Expectancy.pptx
