@@ -3,9 +3,8 @@
 
 Group project on statistical analysis on Life Expentancy around the world to see relationships between variables and how strong the correlations are between these variables.
 
-***Dataset used:*** Life Expectancy.xlsx
-
-1. MBC638 Project - Life Expectancy.pptx
+1. ***Dataset used:*** Life Expectancy.xlsx
+2. MBC638 Project - Life Expectancy.pptx
     - Presentation with introduction, descriptive analysis of variables, statistical analysis on related variables, and all findings and conclusions
 
 ***Data Sources:***  
