@@ -9,5 +9,6 @@ Taking a look at credit default loans data to see if certain groups or demograph
 2. Loan Default Analysis_ Are Unqualified Borrowers Being Targeted by Lenders_.pptx
     - PowerPoint Presentation with project outcomes for Project Update (not final)
     
-3. 
+3. IST 718 Poster.pdf
+    - Poster Presentation on Poster Day in the Spring
     
