@@ -3,11 +3,9 @@
 
 Taking a look at credit default loans data to see if certain groups or demographics are being targeted unfairly by these credit lendors.
 
-1. DataCleaning.ipynb, Models.ipynb
-    - Jupyter Notebook Script
+1. DataCleaning.ipynb, Big Data Project - Visualizations, original dataset.ipynb, and Models.ipynb
+    - Jupyter Notebook Scripts
     
 2. IST652_Spotify Study Playlist.pptx
     - PowerPoint Presentation with project outcomes
     
-3. Final Project Report.docx
-    - Project Report with process of data retrieval, cleaning, and analysis
