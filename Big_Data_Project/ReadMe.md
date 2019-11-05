@@ -12,3 +12,4 @@ Taking a look at credit default loans data to see if certain groups or demograph
 3. IST 718 Poster.pdf
     - Poster Presentation on Poster Day in the Spring
     
+Data Link: https://www.kaggle.com/c/home-credit-default-risk/data
