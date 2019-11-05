@@ -7,6 +7,7 @@ Project Portfolio Milestone
 
 # Table of Contents
   1. **README**: Student's Information, Overview of Document, and Table of Contents
+  ---
   2. **Resume**: Current Resume
   3. **Paper**: *Discovering, Learning, Performing Data Science*
   4. **Big Data Project**: Jupyter Notebook Scripts, PowerPoint Presentation, Final Poster
