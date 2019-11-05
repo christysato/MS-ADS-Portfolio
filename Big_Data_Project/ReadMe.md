@@ -3,7 +3,7 @@
 
 Taking a look at credit default loans data to see if certain groups or demographics are being targeted unfairly by these credit lendors.
 
-1. Project.ipynb
+1. DataCleaning.ipynb, Models.ipynb
     - Jupyter Notebook Script
     
 2. IST652_Spotify Study Playlist.pptx
