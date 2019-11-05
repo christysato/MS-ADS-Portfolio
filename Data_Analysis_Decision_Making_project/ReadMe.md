@@ -1,4 +1,4 @@
-## MBC638: Data Analysis and Decision Making ##
+## MBC638: Data Analysis and Decision Making Project ##
 *Software Needed*: Microsoft Excel and PowerPoint
 
 Group project on statistical analysis on Life Expectancy around the world to see relationships between variables and how strong the correlations are between these variables.
