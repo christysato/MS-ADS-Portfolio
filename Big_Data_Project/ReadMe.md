@@ -6,6 +6,8 @@ Taking a look at credit default loans data to see if certain groups or demograph
 1. DataCleaning.ipynb, Big Data Project - Visualizations, original dataset.ipynb, and Models.ipynb
     - Jupyter Notebook Scripts
     
-2. IST652_Spotify Study Playlist.pptx
-    - PowerPoint Presentation with project outcomes
+2. Loan Default Analysis_ Are Unqualified Borrowers Being Targeted by Lenders_.pptx
+    - PowerPoint Presentation with project outcomes for Project Update (not final)
+    
+3. 
     
