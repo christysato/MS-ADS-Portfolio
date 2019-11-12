@@ -1,5 +1,5 @@
-# MS-ADS-Portfolio
-## Project Portfolio Milestone 
+# Master's in Applied Data Science Portfolio Milestone
+As I complete my ADS program at Syracuse University, our final deliverable to graduate is an overall representation of what we have learned through this program and how we plan to continue to implement everything we have gained in this field. While there were more classes I have taken that has given me a more in-depth understanding of everything that involves the era of Big Data, I have chosen to explain 4 as my main references to the paper I wrote, *Discovering, Learning, and Performing Data Science*. With these 4 classes, I have included their deliverables like presentations, codes with analysis, and visualizaitons that help with showcasing my skills and ability to performing the necessary steps in data science. This is just the beginning to my life-long career in Big Data and a Data Scientist.
 
 ### **Name:** Christy Sato 
 ### **SUID:** 577359421
@@ -15,7 +15,7 @@
      - Current Resume
  
   3. **Paper**: 
-     - *Discovering, Learning, Performing Data Science* by Christy Sato
+     - *Discovering, Learning, and Performing Data Science* by Christy Sato
  
   ## References to Paper
   4. **Big Data Project**:
