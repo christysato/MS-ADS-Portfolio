@@ -3,7 +3,7 @@
 
 Group Project as pretend data scientists who are assigned to help airline companies improve their customer satisfaction. With complete data visualization and analysis, we must provide insightful answers to the airline's businesss problems. Flight survey dataset provided by Professor Saltz. 
 
-1. **Dataset used:** satisfactionSurvey.csv
+1. ***Dataset used:*** satisfactionSurvey.csv
 
 2. Final Paper.docx
     - Project report with business questions, code for data cleaning and analysis, and final insights
