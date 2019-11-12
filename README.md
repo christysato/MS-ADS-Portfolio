@@ -19,19 +19,19 @@ Project Portfolio Milestone
  
   ## References to Paper
   4. **Big Data Project**:
-     - Jupyter Notebook Scripts
-     - PowerPoint Presentation
-     - Final Poster
+     - Jupyter Notebook Scripts for Cleaning, Visualizations, and Models
+     - PowerPoint Presentation for Mid-Semester Update
+     - Final Poster for Poster Day
   
   5. **Data Analysis and Decision Making Project**: 
-     - Excel sheet
+     - Excel sheet with statistical analysis
      - PowerPoint Presentation
   
   6. **Introduction to Data Science Project**: 
-     - Final Report Paper
+     - Final Report Paper with code and descriptions of visuals and analysis (includes MIDST link)
      - PowerPoint Presentation
   
   7. **Scripting for Data Analysis**: 
-     - Jupyter Notebook Script
+     - Jupyter Notebook Script for cleaning, visuals, and API collection of data
      - PowerPoint Presentation
-     - Final Report Paper
+     - Final Report Paper with further details and descriptions of data collection, cleaning, and analysis
