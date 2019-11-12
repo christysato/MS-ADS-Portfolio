@@ -15,7 +15,7 @@ Project Portfolio Milestone
      - Current Resume
  
   3. **Paper**: 
-     - *Discovering, Learning, Performing Data Science*
+     - *Discovering, Learning, Performing Data Science* by Christy Sato
  
   ## References to Paper
   4. **Big Data Project**:
