@@ -9,5 +9,8 @@ Group Project as pretend data scientists who are assigned to help airline compan
     - Project report with business questions, code for data cleaning and analysis, and final insights
     - Includes project code and MIDST link we used to collaborate on the code
     
-3. Team 1 Presentation.pdf
+3. Project.R
+    - Personal project code in R before collaborating with rest of team
+    
+4. Team 1 Presentation.pdf
     - PowerPoint Presentation with project outcomes and insight to airline company
