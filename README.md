@@ -3,7 +3,7 @@ As I complete my ADS program at Syracuse University, our final deliverable to gr
 
 ### **Name:** Christy Sato 
 ### **SUID:** 577359421
-### **Email:** chsato@syr.edu
+### **Email:** christysato003@gmail.com
 
 # Table of Contents
   1. **Resume**: 
